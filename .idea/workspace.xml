@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103d9851-8f6e-43fc-aa34-2ff212b48d6f" name="Changes" comment="1">
+    <list default="true" id="103d9851-8f6e-43fc-aa34-2ff212b48d6f" name="Changes" comment="Поправил структуру кода">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-10.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-10.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-6.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/svg/output-9.svg" beforeDir="false" afterPath="$PROJECT_DIR$/output/svg/output-9.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +23,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master-test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VASILIYKAS&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VASILIYKAS/Lesson_5._Creating_Humans.git&quot;,
+    &quot;accountId&quot;: &quot;30bb3f39-8436-450f-836d-ccd1fe9ca789&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nU0t2xsV53BS9zfElKlazJmYA8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,12 +55,43 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/Pythonlearning/Lesson_5._Creating_Humans",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "C:/Users/yoyoy/AppData/Local/Programs/Python/Python312/Scripts/flake8.exe",
+    "settings.editor.selected.configurable": "preferences.externalTools"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lesson_5._Creating_Humans" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,11 +116,55 @@
       <option name="project" value="LOCAL" />
       <updated>1729013260508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add">
+      <option name="closed" value="true" />
+      <created>1729014881072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729014881072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Поправил путь к файлам">
+      <option name="closed" value="true" />
+      <created>1729150504212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729150504212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1. Отформатировал словарь с буквами согласно PEP8.&#10;2. Исправил структуру кода (спрятал код в функцию def main).">
+      <option name="closed" value="true" />
+      <created>1729236002289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729236002289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Поправил структуру кода">
+      <option name="closed" value="true" />
+      <created>1729421410104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729421410104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Поправил структуру кода">
+      <option name="closed" value="true" />
+      <created>1729510984972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729510984972</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Add" />
+    <MESSAGE value="Поправил путь к файлам" />
+    <MESSAGE value="1. Отформатировал словарь с буквами согласно PEP8.&#10;2. Исправил структуру кода (спрятал код в функцию def main)." />
+    <MESSAGE value="Поправил структуру кода" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поправил структуру кода" />
   </component>
 </project>
